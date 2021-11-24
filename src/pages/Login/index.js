@@ -1,6 +1,7 @@
 /* eslint-disable react/jsx-boolean-value */
 /* eslint-disable react/function-component-definition */
 import React from 'react';
+
 import { Title, Paragraph } from './styled';
 import { Container } from '../../styles/GlobalStyles';
 
